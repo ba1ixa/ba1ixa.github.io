@@ -1,0 +1,16 @@
+body {
+    background-color: blue;
+}
+#fkex {
+    display: flex;
+    flex-direction: row;
+}
+nav {
+    background-color: ececec;
+}
+main {
+    background-color: green;
+}
+h1 {
+    color: green;
+}
